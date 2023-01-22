@@ -1,2 +1,2 @@
 # practice
-Holds all practice coding projects
+Practice code for uploading to github
